@@ -2,9 +2,9 @@
 
 # Tela de login
 
-Veja a aplicação em ação através do GitHub Pages: https://josevictormoura.github.io/tela-login/
-
 Este projeto é uma tela de login simples e moderna, desenvolvida com HTML, CSS e JavaScript. Ele apresenta um formulário de login com validação de entrada, botões de login social e um layout responsivo.
+
+Veja a aplicação em ação através do GitHub Pages: https://josevictormoura.github.io/tela-login/
 
 ## Funcionalidades
 - Formulário de login com campos de nome de usuário e senha.
